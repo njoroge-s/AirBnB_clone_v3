@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Serah Njoroge - [Github](https://github.com/njoroge-s) 
-Aregbesola Israel - [Github](https://github.com/israel-dot-com) 
+Aregbesola Israel - [Github](https://github.com/Israel-dot-com) 
 
 Third part of Airbnb: Serah Njoroge
 ## License
