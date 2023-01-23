@@ -157,6 +157,6 @@ No known bugs at this time.
 Serah Njoroge - [Github](https://github.com/njoroge-s) 
 Aregbesola Israel - [Github](https://github.com/israel-dot-com) 
 
-Second part of Airbnb: Serah Njoroge
+Third part of Airbnb: Serah Njoroge
 ## License
 Public Domain. No copy write protection. 
